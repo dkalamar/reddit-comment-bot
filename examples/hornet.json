@@ -1,0 +1,118 @@
+{
+    "response": {
+        "response": [
+            {
+                "response": [
+                    null
+                ],
+                "query": {
+                    "keyphrase": [
+                        "hornet"
+                    ],
+                    "probability": 10000
+                }
+            },
+            {
+                "response": [
+                    "Too weak, little ghost.",
+                    "Come no closer, ghost.",
+                    "I've seen you, creeping through the undergrowth, stalking me.",
+                    "This old kingdom... A terrible thing awakens. I can smell it in the air...",
+                    "I know what you are. I know what you'd try to do. I can't allow it.",
+                    "Too weak, little ghost...",
+                    "No shadow will haunt me...",
+                    "Only pity for your cursed kind."
+                ],
+                "query": {
+                    "keyphrase": [
+                        "fight"
+                    ]
+                }
+            },
+            {
+                "response": [
+                    "GIT GUD!",
+                    "You could do it, if you had the will."
+                ],
+                "query": {
+                    "keyphrase": [
+                        "hard",
+                        "tough",
+                        "died"
+                    ]
+                }
+            },
+            {
+                "response": [
+                    "SHAW!",
+                    "shaw!",
+                    "Shaw!"
+                ],
+                "query": {
+                    "keyphrase": [
+                        "hornet"
+                    ],
+                    "probability": 1
+                }
+            },
+            {
+                "response": [
+                    "Edinu!",
+                    "Hegale!",
+                    "Gegdu!"
+                ],
+                "query": {
+                    "keyphrase": [
+                        "hornet"
+                    ],
+                    "probability": 0.001
+                }
+            },
+            {
+                "response": [
+                    "Again we meet little ghost."
+                ],
+                "query": {
+                    "keyphrase": [
+                        "again"
+                    ]
+                }
+            },
+            {
+                "response": [
+                    "You've seen beyond this kingdom's bounds. Yours is resilience born of two voids."
+                ],
+                "query": {
+                    "keyphrase": [
+                        "outside",
+                        "grass"
+                    ]
+                }
+            },
+            {
+                "response": [
+                    "The path is opened. One way or another an end awaits inside.",
+                    "I won't be joining you in this. That space is built to sustain your likes. Its bindings would drain me were I to join.",
+                    "I'd urge you to take that harder path, but what end may come, the decision rests with you."
+                ],
+                "query": {
+                    "keyphrase": [
+                        "rule34",
+                        "r/hollow_knight_r34",
+                        "r34"
+                    ]
+                }
+            }
+        ],
+        "query": {
+            "keyphrase": [
+                "hornet"
+            ]
+        }
+    },
+    "throttle": 10,
+    "rarity": 0.01,
+    "subreddits": [
+        "HollowKnightMemes"
+    ]
+}
